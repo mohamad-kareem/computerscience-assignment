@@ -1,0 +1,4 @@
+html shortcut intro-->!enter
+ctrl+s-->save
+*-->all of the elements
+font awesome-->to get the icons of social media etc
