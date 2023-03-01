@@ -42,7 +42,7 @@ section{
     padding-top: 200px;
     display: flex;
     align-items: center;
-    background:url(background-ass.jpg)no-repeat;
+    background:url(images/background-ass.jpg);
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
